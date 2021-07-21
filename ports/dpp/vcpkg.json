@@ -1,0 +1,12 @@
+{
+  "name": "dpp",
+  "version": "1.0.2",
+  "description": "D++ Extremely Lightweight C++ Discord Library",
+  "homepage": "https://dpp.brainbox.cc/",
+
+  "dependencies": [
+      "openssl",
+      "libsodium",
+      "opus"
+  ]
+}
